@@ -25,7 +25,8 @@
 
 ## 🖥️ Interface
 
-<img src="https://user-images.githubusercontent.com/your-screenshot.png" alt="App Screenshot" width="80%">
+<img src="![image](https://github.com/user-attachments/assets/4cc3c8d3-09f1-4ef5-8f82-c925eb1effb8)
+" alt="App Screenshot" width="80%">
 
 ---
 
@@ -33,8 +34,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pdf-summary-qa-tool.git
-cd pdf-summary-qa-tool
+git clone https://github.com/titiksha95/PDF-to-Summary-Questions-Generator.git
+cd PDF-to-Summary-Questions-Generator
 
 # Install required libraries
 pip install PyQt5 PyMuPDF PyPDF2 transformers torch
