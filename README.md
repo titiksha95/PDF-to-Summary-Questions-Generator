@@ -25,7 +25,7 @@
 
 ## 🖥️ Interface
 
-<img src="![image](https://github.com/user-attachments/assets/4cc3c8d3-09f1-4ef5-8f82-c925eb1effb8)
+<img src="![screenshot](https://github.com/user-attachments/assets/399b1c2f-43f2-4701-a84d-2984201dfd50)
 " alt="App Screenshot" width="80%">
 
 ---
