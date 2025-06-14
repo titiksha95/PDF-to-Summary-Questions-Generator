@@ -23,14 +23,6 @@
 
 ---
 
-## 🖥️ Interface
-
-<img src="![image](https://github.com/user-attachments/assets/888b83e4-bccc-411c-a29e-1a69fd6ceba3)
-" width="80%">
-
-
----
-
 ## 🛠️ Installation
 
 ```bash
