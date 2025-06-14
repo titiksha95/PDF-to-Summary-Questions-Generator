@@ -25,8 +25,8 @@
 
 ## 🖥️ Interface
 
-![Screenshot](![image](https://github.com/user-attachments/assets/b45b1af8-3a2d-4fde-a93d-433c47c6680c)
-)
+<img src="![image](https://github.com/user-attachments/assets/888b83e4-bccc-411c-a29e-1a69fd6ceba3)
+" width="80%">
 
 
 ---
