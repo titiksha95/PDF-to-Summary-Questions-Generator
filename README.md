@@ -25,7 +25,7 @@
 
 ## 🖥️ Interface
 
-<img src="![screenshot](https://github.com/user-attachments/assets/399b1c2f-43f2-4701-a84d-2984201dfd50)
+<img src="https://github.com/titiksha95/PDF-to-Summary-Questions-Generator/blob/main/screenshot.png
 " alt="App Screenshot" width="80%">
 
 ---
